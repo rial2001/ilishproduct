@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Philosopher:400,400i,700,700i|Poppins:200,200i,300,300i,400,400i,500,600,700,800,900&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Philosopher:400,400i,700,700i|Poppins:200,200i,300,300i,400,400i,500,600,700,800,900&display=swap");
+
 /* line 1, ../../Arafath/CL/Cl November/225. Restaurant-02/HTML/scss/_extend.scss */
 .flex-center-start {
   display: -webkit-box;
@@ -65,7 +65,7 @@ a:focus {
 a:focus,
 a:hover,
 .portfolio-cat a:hover,
-.footer -menu li a:hover {
+.footer-menu li a:hover {
   text-decoration: none;
 }
 
@@ -177,7 +177,7 @@ h3 {
 
 /* line 115, ../../Arafath/CL/Cl November/225. Restaurant-02/HTML/scss/theme-default.scss */
 .mb-65 {
-  margin-bottom: 67px;
+  margin-bottom: 65px;
 }
 
 /* line 119, ../../Arafath/CL/Cl November/225. Restaurant-02/HTML/scss/theme-default.scss */
@@ -398,7 +398,7 @@ h3 {
 
 /* line 301, ../../Arafath/CL/Cl November/225. Restaurant-02/HTML/scss/theme-default.scss */
 .mb-60 {
-  margin-bottom: 50px !important;
+  margin-bottom: 60px !important;
 }
 
 /* line 1, ../../Arafath/CL/Cl November/225. Restaurant-02/HTML/scss/_btn.scss */
